@@ -1,2 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Vivamus luctus
+Lorem ipsum dolor sit am
